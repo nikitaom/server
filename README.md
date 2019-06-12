@@ -1,5 +1,5 @@
 # Server application
-##Preparing
+## Preparing
 Before using this application be sure you have installed next programs on your computer:
 
 
